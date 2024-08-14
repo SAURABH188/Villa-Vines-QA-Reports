@@ -1,0 +1,114 @@
+    ,                                                                            BUG REPORT ( Villa & Vines )                                                                                                                                                          ,,,,,,,,,,,,,
+Date Raised,Bug_ID,Test Module,Description/ Bug Summary,Steps,Expected Result,Status,Severity ( Critical/Major/Medium/Low ),Priority (P1/P2/P3/P4),Date Closed,Test Excecuted By ,"Screenshot
+Refer_Villas&Vines",Comment,Developer status,Developer comment
+8/14/2024,Bug_001,Header Section,Alignment of Menu are not proper,"1) Open Website
+",Please make sure alignment is proper with spacing between menu,Fail,Critical,P1,,Arsheen,Refer Pt 1,,,
+8/14/2024,Bug_002,Header Section,"he menu in the header section is not fixed 
+and moves when scrolling.","1) Open Website
+","The menu should stay fixed at the top
+ of the page and remain visible while 
+scrolling.",Fail,Critical,P1,,Arsheen,,,,
+8/14/2024,Bug_003,Home Screen,Safari Villa's Dropdown is overlapping other menus,1) Open the link,"The dropdown should be visible with 
+highlighted column.",Fail,Medium,P2,,Arsheen,Refer Pt 2,,,
+8/14/2024,Bug_004,Homescreen,"Logo of ""Hawker's Bay Trail"" is misplaced ","1) Open the link
+2) Scroll down ",It should be placed at given place ,Fail,Low,P4,,Arsheen,Refer Pt 3,,,
+8/14/2024,Bug_005,Homescreen,"Link ""www.hbtrails.nz"" is not clickable","1) Open the link
+2) Scroll down ","Link should redirect to ""Hawker's 
+Bay Trail"" Page.",Fail,Low,P4,,Arsheen,Refer Pt 4,,,
+8/14/2024,Bug_006,Homescreen,"Link ""LEARN MORE ABOUT SAVY VILLA"" is aligned 
+over OUR SAFARI TALENT VILLAS description","1) Open the link
+2) Scroll down ",It should be aligned properly,Fail,Low,P4,,Arsheen,Refer Pt 5,,,
+8/14/2024,Bug_007,"Maxim Wines - 
+Our Winemaker","Link ""Learn More"" is misplaced","1) Open the link
+2) Click on Maxim Wines - 
+Our Winemaker","Please align the link ""Learn More""
+at right place",Fail,Low,P4,,Arsheen,Refer Pt 6,,,
+8/14/2024,Bug_008,"Maxim Wines - 
+Our Winemaker","The logo text displayed on the homepage is not
+ proper. The font style is small.","1) Open the link
+2) Click on Maxim Wines - 
+Our Winemaker","The logo text should be displayed in the 
+specified font.",Fail,Low,P4,,Arsheen,Refer Pt 7,,,
+8/14/2024,Bug_009,"Maxim Wines - 
+Our Winemaker","The gallery page displays fewer images
+ than expected, resulting in large areas of
+ empty space. This affects the visual appeal
+of the page.","1) Open the link
+2) Click on Maxim Wines - 
+Our Winemaker","The layout should automatically 
+arrange the images to fill the page, 
+making it look balanced and nice.",Fail,Low,P4,,Arsheen,,,,
+8/14/2024,Bug_010,Eating & Drinking,"Map is missing; only map image is shown
+ on the page.","1) Open the link
+2) Click on Eating & 
+Drinking","The page should show an interactive 
+map, not just a static image.",Fail,Low,P4,,Arsheen,Refer Pt 8,,,
+8/14/2024,Bug_011,Eating & Drinking,"Link ""https://hawkesbayfarmersmarket.co.nz"" 
+is not clickable","1) Open the link
+2) Click on Eating & 
+Drinking","Link should redirect to 
+""hawkesbayfarmersmarket"" Page.",Fail,Low,P4,,Arsheen,,,,
+8/14/2024,Bug_012,Gift Cards,"The page does not display attractively and
+ looks unappealing.","1) Open the link
+2) Click on Gift Cards","The page should be visually appealing and 
+well-organized, with a layout that 
+enhances user experience.",Fail,Low,P4,,Arsheen,,,,
+8/14/2024,Bug_013,Gift Cards,"The information and image on the page are not
+ aligned in the center.","1) Open the link
+2) Click on Gift Cards","The information and image should be 
+centered and aligned properly on the page.",Fail,Low,P4,,Arsheen,,,,
+8/14/2024,Bug_014,Gift Cards,"Clicking ""Full View"" on the voucher causes
+ the icon to expand and not fit in the 
+available space, disrupting the layout.","1) Open the link
+2) Click on Gift Cards","The icon should fit properly in the space 
+when ""Full View"" is selected.",Fail,Medium,P3,,Arsheen,Refer Pt 9,,,
+8/14/2024,Bug_015,Reviews,"The section labeled ""What People Are Saying!!""
+ is not clear or professional. It should be updated to a more appropriate and engaging title.
+","1) Open the link
+2) Click on Testimonials","The section should have a clear and professional title, such as ""Customer Reviews"" or ""User Feedback.""",Fail,Low,P4,,Arsheen,Refer Pt 10,,,
+8/14/2024,Bug_016,Reviews,"The ""User Feedback"" text is too small and there is no scrollbar, making it hard to read and navigate.","1) Open the link
+2) Click on Testimonials",Increase the font size and add a scrollbar if needed.,Fail,Low,P4,,Arsheen,,,,
+8/14/2024,Bug_017,Contact ,"The font color is too light, making it difficult
+ to read.","1) Open the link
+2) Click on Contact","The font color should be darker to 
+improve readability.",Fail,Low,P4,,Arsheen,,,,
+8/14/2024,Bug_018,Contact ,The text box is missing placeholder text.,"1) Open the link
+2) Click on Contact","Add appropriate placeholder text to the 
+text box to guide users on what to enter.",Fail,Low,P4,,Arsheen,Refer Pt 11,,,
+8/14/2024,Bug_019,Contact ,"The ""Thank You"" message displayed after submitting the document is too small.","1) Open the link
+2) Click on Contact","The ""Thank You, your information is 
+submitted"" message should be larger 
+and more visible to ensure it is easily 
+noticeable.",Fail,Low,P4,,Arsheen,,,,
+8/14/2024,Bug_020,Rates,"The page does not display attractively and
+ looks unappealing.","1) Open the link
+2) Click on Rates","The page should be visually appealing 
+and well-organized, with a layout that 
+enhances user experience.",Fail,Low,P4,,Arsheen,,,,
+8/14/2024,Bug_021,Header Section,Social media links are not positioned correctly on the page.,1) Open the link,"Social media links should be placed at 
+the upper side of the page for better 
+visibility and access.",Fail,Low,P4,,Arsheen,,,,
+8/14/2024,Bug_022,Header Section,The header section contains more tabs than needed.,1) Open the link,"The header section should only include 
+the following tabs:
+Home
+Safari Villa's
+Safari Villa - Savvy
+Safari Villa - Pinot
+About",Fail,Medium,P3,,Arsheen,,,,
+8/14/2024,Bug_023,Footer Section,The logo in the header section is different from the logo in the footer section.,1) Open the link,The same logo should be used consistently in both the header and footer sections.,Fail,Medium,P3,,Arsheen,,,,
+8/14/2024,Bug_024,Footer Section,The logo in the footer section is not positioned correctly.,1) Open the link,"The logo in the footer section should be
+ aligned to the left side.",Fail,Medium,P4,,Arsheen,,,,
+8/14/2024,Bug_025,Footer Section,"The email address and phone number in the 
+footer section are not clickable.",1) Open the link,"The email address and phone number 
+in the footer section should be clickable, 
+allowing users to easily initiate an email 
+or call.",Fail,Medium,P3,,Arsheen,Refer Pt 12,,,
+8/14/2024,Bug_026,Footer Section,The footer section does not include all the necessary links.,1) Open the link,"The footer section should contain the
+following links:
+Maxim Wines - Our Winemaker
+Eating & Drinking
+Gift Cards
+Gallery
+Testimonials
+Contact
+Rates",Fail,Medium,P3,,Arsheen,,,,
